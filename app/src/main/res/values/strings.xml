@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RuntimePermissionTest</string>
+    <string name="make_cell">Make Cell</string>
+</resources>
